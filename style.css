@@ -1,0 +1,169 @@
+* {
+    font-family: "Oswald", sans-serif
+}
+
+.container {
+    margin: auto !important; 
+    padding: 30px 0 30px 0 !important;
+    max-width: 1110px !important;
+}
+
+
+body {
+    background-image: url(./img/body-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top;
+}
+
+.menu-btn {
+    background-color: #F7654A;
+    border: 1px solid #F7654A;
+    padding: 6px 10px 10px 10px;
+}
+
+.header-title {
+    font-size: 64px;
+    font-weight: 500;
+    max-width: 734px;
+    width: 100%;
+    margin: auto;
+    letter-spacing: 2%;
+    margin-bottom: 35px;
+    
+}
+
+.header-subtitle {
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 110px;
+}
+
+.years {
+    font-weight: 500;
+    font-size: 72px;
+    color: #F7654A;
+    text-align: center;
+    margin: auto;
+
+}
+.numbers-title {
+    font-weight: 500;
+    font-size: 36px;
+    color: #000;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.numbers-subtitle {
+    text-align: center;
+    font-weight: 500;
+    font-size: 18px;
+    color: gray;
+}
+
+.number-cont {
+    background-color: #F7F7F7;
+    margin-bottom: 100px;
+}
+
+
+
+.container-heading {
+    margin: auto;
+    
+    margin-bottom: 60px;
+}
+
+
+.span-line {
+    display: block;
+    width: 55px;
+    height: 6px;
+    background-color: #F7654A;
+    margin-top: 45px;
+    margin-bottom: 15px;
+}
+
+.request {
+    background-color: #F7654A;
+    padding: 30px 0 45px 0;
+}
+
+
+
+.request-title {
+    color: #fff;
+    font-weight: bold;
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+.request-subtitle {
+    color: #fff;
+    font-weight: bold;    
+    font-size: 24px;
+}
+.request-btn {
+    background-color: #fff;
+    border: 0;
+    padding: 14px 30px;
+} 
+
+.services-heading {
+    margin-top: 150px;
+    margin-bottom: 66px;
+}
+
+.question-heading {
+    text-align: center;
+    margin-bottom: 50px;
+}
+.question {
+    margin-bottom: 40px;
+    color: #F7654A;
+}
+.question2 {
+    margin-bottom: 30px;
+    color: #F7654A;
+}
+.quetion-info {
+    margin-bottom: 40px;
+    max-width: 730px;
+    width: 100%;
+}
+.traingle-img {
+    margin-right: 15px;
+}
+
+.partners {
+    margin-top: 110px;
+    background-color: #404149;
+    padding: 100px 0 100px 0;
+    margin-bottom: 150px;
+}
+
+.partners-heading {
+    margin-bottom: 60px;
+    text-align: center;
+    color: #fff;
+}
+
+
+.reviews-heading {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.review-card-heading {
+    font-size: 96px;
+    color: #F7654A;
+}
+
+.footer {
+    background-color: #404149;
+}
+
+
+.footer-text {
+    color: #fff;
+}
